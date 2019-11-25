@@ -1,0 +1,131 @@
+﻿  handmade.cpp
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(183,33): error C2143:  синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(183,33): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(183,62): error C2238:  непредвиденные лексемы перед ";"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(184,33): error C2143:  синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(184,33): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(184,62): error C2238:  непредвиденные лексемы перед ";"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(185,34): error C2143:  синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(185,34): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(185,64): error C2238:  непредвиденные лексемы перед ";"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.cpp(104,34): error C2440:  инициализация: невозможно преобразовать "const char [88]" в "char *"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.cpp(104,24): message :  При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.cpp(106,9): error C2065:  debug_read_file_result: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.cpp(106,32): error C2146:  синтаксическая ошибка: отсутствие ";" перед идентификатором "File"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.cpp(106,32): error C2065:  File: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.cpp(106,74): error C2039:  DEBUGPlatformReadEntireFile: не является членом "game_memory"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(173): message :   см. объявление "game_memory"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.cpp(107,12): error C2065:  File: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.cpp(109,40): error C2039:  DEBUGPlatformWriteEntireFile: не является членом "game_memory"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(173): message :   см. объявление "game_memory"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.cpp(109,53): error C2065:  File: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.cpp(109,72): error C2065:  File: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.cpp(110,39): error C2039:  DEBUGPlatformFreeFileMemory: не является членом "game_memory"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(173): message :   см. объявление "game_memory"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.cpp(110,40): error C2065:  File: необъявленный идентификатор
+  win32_handmade.cpp
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.cpp(163,1): error C2143:  синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(183,33): error C2143:  синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(183,33): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(183,62): error C2238:  непредвиденные лексемы перед ";"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(184,33): error C2143:  синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(184,33): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(184,62): error C2238:  непредвиденные лексемы перед ";"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(185,34): error C2143:  синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(185,34): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(185,64): error C2238:  непредвиденные лексемы перед ";"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(129,33): error C2065:  DEBUGPlatformFreeFileMemory: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(129,60): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(130,1): error C2448:  DEBUG_PLATFORM_FREE_FILE_MEMORY: вероятно, инициализатор, использующий стиль функции, является определением функции
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(137,33): error C2065:  DEBUGPlatformReadEntireFile: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(137,60): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(138,1): error C2448:  DEBUG_PLATFORM_READ_ENTIRE_FILE: вероятно, инициализатор, использующий стиль функции, является определением функции
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(185,34): error C2065:  DEBUGPlatformWriteEntireFile: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(185,62): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(186,1): error C2448:  DEBUG_PLATFORM_WRITE_ENTIRE_FILE: вероятно, инициализатор, использующий стиль функции, является определением функции
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(214,1): error C2011:  win32_game_code: переопределение типа "struct"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.h(52): message :   см. объявление "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(239,1): error C2027:  использование неопределенного типа "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.h(52): message :   см. объявление "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(240,27): error C2079:  "Result" использует не имеющую определения структуру struct "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(259,28): error C2065:  GameUpdateAndRenderStub: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(260,28): error C2065:  GameGetSoundSamplesStub: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(269,5): error C2027:  использование неопределенного типа "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.h(52): message :   см. объявление "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(271,23): error C2027:  использование неопределенного типа "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.h(52): message :   см. объявление "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(272,11): error C2027:  использование неопределенного типа "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.h(52): message :   см. объявление "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(275,10): error C2027:  использование неопределенного типа "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.h(52): message :   см. объявление "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(276,10): error C2027:  использование неопределенного типа "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.h(52): message :   см. объявление "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(276,30): error C2065:  GameUpdateAndRenderStub: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(277,10): error C2027:  использование неопределенного типа "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.h(52): message :   см. объявление "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(278,1): error C2059:  синтаксическая ошибка: }
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(635,67): error C2664:  "void Win32BuildEXEPathFileName(win32_state *,char *,int,char *)": невозможно преобразовать аргумент 2 из "const char [14]" в "char *"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(635,35): message :  При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(658,1): error C2447:  {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(669,35): error C2065:  InputPlayIndex: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(677,35): error C2065:  Win32State: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(677,64): error C2065:  Win32State: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(677,2): error C2660:  WriteFile: функция не принимает 3 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(1221,1): message :   см. объявление "WriteFile"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(683,1): error C2447:  {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(954,2): error C2664:  "void Win32BuildEXEPathFileName(win32_state *,char *,int,char *)": невозможно преобразовать аргумент 2 из "const char [13]" в "char *"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(954,41): message :  При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(959,10): error C2065:  TempGameCodeDLLFullPath: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(959,36): error C2065:  TempGameCodeDLLFullPath: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1003,13): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1004,13): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1005,13): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1005,47): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1005,76): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1007,13): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1007,49): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1010,13): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1010,40): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1010,69): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1011,37): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1011,67): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1011,98): error C2660:  Win32InitDSound: функция не принимает 1 аргументов
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(315,1): message :   см. объявление "Win32InitDSound"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1012,31): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1034,55): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1034,39): error C2660:  VirtualAlloc: функция не принимает 3 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\memoryapi.h(56,1): message :   см. объявление "VirtualAlloc"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1046,43): error C2039:  DEBUGPlatformFreeFileMemory: не является членом "game_memory"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(173): message :   см. объявление "game_memory"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1046,45): error C2065:  DEBUGPlatformFreeFileMemory: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1047,43): error C2039:  DEBUGPlatformReadEntireFile: не является членом "game_memory"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(173): message :   см. объявление "game_memory"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1047,45): error C2065:  DEBUGPlatformReadEntireFile: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1048,44): error C2039:  DEBUGPlatformWriteEntireFile: не является членом "game_memory"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\handmade.h(173): message :   см. объявление "game_memory"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1048,46): error C2065:  DEBUGPlatformWriteEntireFile: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1074,28): error C2079:  "Game" использует не имеющую определения структуру struct "win32_game_code"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1075,16): error C2065:  TempGameCodeDLLFullPath: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1082,8): error C2660:  CompareFileTime: функция не принимает 1 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(50,1): message :   см. объявление "CompareFileTime"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1084,32): error C2664:  "void Win32UnloadGameCode(win32_game_code *)": невозможно преобразовать аргумент 1 из "int *" в "win32_game_code *"
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1084,27): message :  Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1086,13): error C2065:  TempGameCodeDLLFullPath: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1232,8): error C3861:  Win32RecordInput: идентификатор не найден
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1276,33): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1276,80): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1280,50): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1280,81): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1281,49): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1284,34): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1284,63): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1288,76): error C2065:  ExpectedBytesUnitFlip: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1293,52): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1296,48): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1308,49): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1310,60): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1315,49): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1324,60): error C2065:  SoundOutput: необъявленный идентификатор
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1325,70): error C2065:  SoundOutput: необъявленный идентификатор
+  Создание кода...
+C:\Users\ПЕРВЫЙ\Desktop\Visual Studio\projects\Handmade Hero\Handmade Hero\win32_handmade.cpp(1354,51): error C2065:  SoundOutput: необъявленный идентификатор
